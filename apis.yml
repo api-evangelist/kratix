@@ -1,0 +1,45 @@
+aid: kratix
+name: Kratix
+description: >-
+  Kratix is an open-source framework for building internal developer platforms
+  using Kubernetes, enabling platform teams to deliver customizable, composable
+  Promises as a Service.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Developer Experience
+  - Internal Developer Platform
+  - Kubernetes
+  - Platform Engineering
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/kratix/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: kratix:kratix
+    name: Kratix
+    description: >-
+      Kratix is an open-source framework for building internal developer
+      platforms using Kubernetes, enabling platform teams to deliver
+      customizable, composable Promises as a Service.
+    humanURL: https://kratix.io
+    tags:
+      - Developer Experience
+      - Internal Developer Platform
+      - Kubernetes
+    properties:
+      - type: Documentation
+        url: https://kratix.io/docs
+      - type: Getting Started
+        url: https://kratix.io/docs/main/quick-start
+common:
+  - type: Website
+    url: https://kratix.io
+  - type: Documentation
+    url: https://kratix.io/docs
+  - type: GitHub Organization
+    url: https://github.com/syntasso
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
