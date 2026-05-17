@@ -36,7 +36,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.kratix.io
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.kratix.io/main/quick-start
       - type: Reference
         url: https://docs.kratix.io/main/reference
@@ -51,11 +51,11 @@ common:
     url: https://kratix.io
   - type: Documentation
     url: https://docs.kratix.io
-  - type: Getting Started
+  - type: GettingStarted
     url: https://docs.kratix.io/main/quick-start
   - type: Blog
     url: https://www.syntasso.io/blog
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/syntasso
   - type: GitHubRepository
     url: https://github.com/syntasso/kratix
