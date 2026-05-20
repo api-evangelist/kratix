@@ -47,6 +47,8 @@ apis:
       - type: Workshop
         url: https://docs.kratix.io/workshop
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/syntasso
   - type: Website
     url: https://kratix.io
   - type: Documentation
