@@ -65,6 +65,8 @@ common:
     url: https://github.com/syntasso/kratix/issues
   - type: Marketplace
     url: https://docs.kratix.io/marketplace
+  - type: LLMsTxt
+    url: https://kratix.io/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
