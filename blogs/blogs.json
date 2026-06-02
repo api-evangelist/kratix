@@ -2,13 +2,13 @@
   "repo": "kratix",
   "feeds": [
     {
-      "source": "https://www.syntasso.io/blog",
-      "feed_url": "",
+      "source": "https://docs.kratix.io/main/quick-start",
+      "feed_url": "https://docs.kratix.io/blog/rss.xml",
       "title": "",
       "saved": 0,
-      "error": "no_feed"
+      "method": "discovered"
     }
   ],
-  "fetched": "2026-05-17T20:48:52Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
