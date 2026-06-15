@@ -2,6 +2,13 @@
   "repo": "kratix",
   "feeds": [
     {
+      "source": "https://www.syntasso.io/blog-feed.xml",
+      "feed_url": "https://www.syntasso.io/blog-feed.xml",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    },
+    {
       "source": "https://docs.kratix.io/main/quick-start",
       "feed_url": "https://docs.kratix.io/blog/rss.xml",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "fetched": "2026-06-01T23:35:02Z",
-  "post_count": 0
+  "post_count": 2,
+  "fetched": "2026-06-14T20:42:17Z"
 }
