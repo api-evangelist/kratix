@@ -65,7 +65,7 @@ common:
     url: https://github.com/syntasso/kratix/issues
   - type: Marketplace
     url: https://docs.kratix.io/marketplace
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://kratix.io/llms.txt
 maintainers:
   - FN: Kin Lane

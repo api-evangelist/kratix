@@ -5,7 +5,14 @@
       "source": "https://www.syntasso.io/blog-feed.xml",
       "feed_url": "https://www.syntasso.io/blog-feed.xml",
       "title": "",
-      "saved": 1,
+      "saved": 2,
+      "method": "feed"
+    },
+    {
+      "source": "https://docs.kratix.io/blog/rss.xml",
+      "feed_url": "https://docs.kratix.io/blog/rss.xml",
+      "title": "",
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -16,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 4,
+  "fetched": "2026-06-27T12:03:07Z"
 }
