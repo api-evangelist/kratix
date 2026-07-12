@@ -47,6 +47,8 @@ apis:
       - type: Workshop
         url: https://docs.kratix.io/workshop
 common:
+  - type: DomainSecurity
+    url: security/kratix-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/syntasso
   - type: Website
