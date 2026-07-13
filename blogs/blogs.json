@@ -5,7 +5,7 @@
       "source": "https://www.syntasso.io/blog-feed.xml",
       "feed_url": "https://www.syntasso.io/blog-feed.xml",
       "title": "",
-      "saved": 2,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -23,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 4,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 36,
+  "fetched": "2026-07-11T11:50:51Z"
 }
