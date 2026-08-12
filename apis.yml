@@ -59,6 +59,13 @@ apis:
       - type: Workshop
         url: https://docs.kratix.io/workshop
 common:
+  - type: Releases
+    url: https://github.com/syntasso/kratix/releases
+  - type: ContributionGuide
+    url: https://github.com/syntasso/kratix/blob/main/CONTRIBUTING.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/syntasso/kratix/blob/main/LICENSE
   - type: DomainSecurity
     url: security/kratix-domain-security.yml
   - type: LinkedIn
