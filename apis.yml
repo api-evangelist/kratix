@@ -32,11 +32,15 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kratix.png
+x-docs-platform: docusaurus
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-10-03
+x-docs-hosting: github-pages
 tags:
   - Developer Experience
   - Internal Developer Platform
   - Kubernetes
-  - Open-Source
+  - Open Source
   - Platform Engineering
 tags_raw:
   - Developer Experience
@@ -44,6 +48,7 @@ tags_raw:
   - Kubernetes
   - Open Source
   - Platform Engineering
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/kratix/refs/heads/main/apis.yml
 created: '2026-03-27'
