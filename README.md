@@ -1,4 +1,4 @@
-# Kratix (kratix)
+# Kratix
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,57 +66,111 @@
 
 Kratix is an open-source framework for building internal developer platforms using Kubernetes, enabling platform teams to deliver customizable, composable Promises as a Service. Kratix exposes its capabilities through Kubernetes Custom Resource Definitions (Promise, Resource, WorkloadGroup, Destination, StateStore) rather than a traditional HTTP API.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/kratix/refs/heads/main/apis.yml)
+**Areas:** Developer Experience · Internal Developer Platform · Kubernetes · Open Source · Platform Engineering
 
-## Scope
+## Kratix on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Kratix is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kratix/](https://apis.io/providers/kratix/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Platform Engineering, Internal Developer Platform, Kubernetes, Developer Experience, Open Source
+- [Kratix](https://apis.io/apis/kratix/kratix/) — Kratix is an open-source framework for building internal developer platforms using Kubernetes. Platform teams author Promises that wrap complex services…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-27
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### MCP servers (1)
 
-### Kratix
-Kratix is an open-source framework for building internal developer platforms using Kubernetes. Platform teams author Promises that wrap complex services into self-service APIs delivered as Kubernetes Custom Resource Definitions for application teams to consume.
+Model Context Protocol servers that expose the API to agents.
 
-**Human URL:** [https://kratix.io](https://kratix.io)
+- [Moved to /providers/kratix/](https://apis.io/servers/kratix/kratix/)
 
+#### Security (1)
 
-#### Tags:
+Authentication, trust centre, and vulnerability disclosure.
 
- - Platform Engineering, Internal Developer Platform, Kubernetes, Developer Experience
+- [Kratix Domain Security](https://apis.io/security/kratix/kratix-domain-security/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Documentation](https://docs.kratix.io)
-- [Getting Started](https://docs.kratix.io/main/quick-start)
-- [Reference](https://docs.kratix.io/main/reference)
-- [GitHubRepository](https://github.com/syntasso/kratix)
-- [Marketplace](https://docs.kratix.io/marketplace)
-- [Workshop](https://docs.kratix.io/workshop)
+Published plans, tiers and prices.
 
-## Common Properties
+- [Kratix Plans Pricing](https://apis.io/plans/kratix/kratix-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Kratix Rate Limits](https://apis.io/rate-limits/kratix/kratix-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Kratix Finops](https://apis.io/finops/kratix/kratix-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://kratix.io)
 - [Documentation](https://docs.kratix.io)
-- [Getting Started](https://docs.kratix.io/main/quick-start)
+- [Getting started](https://docs.kratix.io/main/quick-start)
 - [Blog](https://www.syntasso.io/blog)
-- [GitHub Organization](https://github.com/syntasso)
-- [GitHubRepository](https://github.com/syntasso/kratix)
-- [Issue Tracker](https://github.com/syntasso/kratix/issues)
-- [Marketplace](https://docs.kratix.io/marketplace)
+- [GitHub](https://github.com/syntasso)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 19.7** — emerging · rubric 0.25.0 · scored 2026-10-23
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 7.9 |
+
+**Agent readiness 9.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kratix/](https://apis.io/providers/kratix/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kratix: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kratix/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
